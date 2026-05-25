@@ -1,0 +1,9 @@
+.env
+temp_audio/
+__pycache__/
+*.pyc
+.venv/
+*.mp3
+*.wav
+*.mp4
+*.webm
